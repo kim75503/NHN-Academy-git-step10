@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_10;
+package com.nhnacademy.practice_problems_10;
 
 import java.io.BufferedReader;
 import java.io.File;

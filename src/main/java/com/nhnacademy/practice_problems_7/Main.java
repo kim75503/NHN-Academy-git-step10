@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_7;
+package com.nhnacademy.practice_problems_7;
 
 /*
 연습 7: 조건부 메시지 생성

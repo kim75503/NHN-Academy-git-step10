@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_9;
+package com.nhnacademy.practice_problems_9;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

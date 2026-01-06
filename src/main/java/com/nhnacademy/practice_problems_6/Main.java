@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_6;
+package com.nhnacademy.practice_problems_6;
 
 /*연습 6: StringBuilder로 CSV 생성
 목표: StringBuilder를 사용하여 여러 TODO 항목을 CSV 형식으로 변환하세요.

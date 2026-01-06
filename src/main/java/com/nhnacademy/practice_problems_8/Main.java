@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_8;
+package com.nhnacademy.practice_problems_8;
 
 
 /*

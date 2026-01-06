@@ -1,4 +1,4 @@
-package com.nhnacademy.pratice_problems_3;
+package com.nhnacademy.practice_problems_3;
 
 public class Main {
     public static void main(String[] args) {
